@@ -7,7 +7,7 @@ namespace app1
         static void Main(string[] args)
         {
             Console.Clear();
-            Console.WriteLine("Meow meow human!");
+            Console.WriteLine("Mystic cat goes Rawr");
         }
     }
 }
